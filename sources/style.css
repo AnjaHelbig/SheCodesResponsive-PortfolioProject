@@ -45,6 +45,7 @@ h3 {
 .container {
   display: block;
   margin: 0 auto;
+  margin-bottom: 30px;
 }
 
 p {
@@ -55,12 +56,12 @@ p {
   font-size: larger;
 }
 
-.project {
-  margin-top: 80px;
-}
-
 .projectHeader {
   font-weight: bold;
   font-size: 36px;
   color: #537188;
+}
+
+.col-sm-6 {
+  padding: 20px;
 }
