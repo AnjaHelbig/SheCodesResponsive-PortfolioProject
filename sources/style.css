@@ -53,7 +53,7 @@ p {
   margin-top: 40px;
   margin-bottom: 40px;
   font-weight: bold;
-  font-size: larger;
+  font-size: 24px;
 }
 
 .projectHeader {
@@ -64,4 +64,13 @@ p {
 
 .col-sm-6 {
   padding: 20px;
+}
+
+.footer {
+  background-color: #537188;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+  padding: 30px;
 }
